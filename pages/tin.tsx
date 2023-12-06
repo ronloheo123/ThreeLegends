@@ -1,1 +1,1 @@
-<AbortController></AbortController>;
+<AbortSignal></AbortSignal>;
