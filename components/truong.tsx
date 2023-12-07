@@ -3,5 +3,5 @@ import React from "react";
 type Props = {};
 
 const truong = () => {
-  return <div>truong</div>;
+  return <div>truongg</div>;
 };
