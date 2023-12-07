@@ -17,9 +17,7 @@ export default function Home() {
       </Head>
       <main>
         <div className="Tin"></div>
-        <Box>
-          <Truo
-        </Box>
+        <Box></Box>
         <div className="Duy"></div>
       </main>
     </>
