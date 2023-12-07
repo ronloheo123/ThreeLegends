@@ -1,0 +1,4 @@
+diff a/pages/tin.tsx b/pages/tin.tsx	(rejected hunks)
+@@ -0 +0 @@
+-<AbortController></AbortController>;
++<AbortSignal></AbortSignal>;
