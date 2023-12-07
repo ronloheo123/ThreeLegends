@@ -14,6 +14,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+<<<<<<< HEAD
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
@@ -108,6 +109,12 @@ export default function Home() {
             </p>
           </a>
         </div>
+=======
+      <main>
+        <div className="Tin"></div>
+        <div className="Truong"></div>
+        <div className="Duy"></div>
+>>>>>>> origin/Truong
       </main>
     </>
   );
